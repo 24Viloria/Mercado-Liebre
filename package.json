@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "name": "desafio2",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
